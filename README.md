@@ -5,7 +5,7 @@
 
 # Contents
 * [How to Use](https://github.com/ermanduran95/Product-Illustrator/blob/master/README.md#how-to-use)
-  * [Using in oxxo.com](https://github.com/ermanduran95/Product-Illustrator/blob/master/README.md#option1-using-in-oxxo.com)
+  * [Using in oxxo.com](https://github.com/ermanduran95/Product-Illustrator/blob/master/README.md#option1-using-in-oxxocom)
   * [Customize the program](https://github.com/ermanduran95/Product-Illustrator/blob/master/README.md#option2-customization)
 * [Installing](https://github.com/ermanduran95/Product-Illustrator/blob/master/README.md#Installing)
 
