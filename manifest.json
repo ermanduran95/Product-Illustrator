@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Product Recommender",
+    "version": "0.1",
+    "description":"simple productrecommender",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "css":[
+                "css/style.css"
+            ],
+            "js":[
+                "js/jquery.js",
+                "js/context.js"
+            ]
+        }
+    ],
+    "browser_action":{
+        "default_icon": "ct.png"
+    }
+}
