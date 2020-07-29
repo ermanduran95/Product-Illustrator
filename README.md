@@ -1,5 +1,5 @@
 # Product Recommender
-  Product-Recommender aims to store data in side-bar in order to present to user. Side-bar guides users to see what products they have lastly visited. Thus, instead of going through history to find products' link, they can easily reach in side-bar under favor of Product-Recommender.
+  Product-Recommender aims to store products in side-bar in order to present to user. Side-bar guides users to see what products they have lastly visited. Thus, instead of going through history to find products' link, they can easily reach in side-bar under favor of Product-Recommender.
 
 ![](img/sample.png)
 
